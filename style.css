@@ -1,0 +1,12 @@
+body {
+	text-align: center;
+}
+
+.first {
+	color: red
+}
+
+#football {
+	border: black solid 1px;
+	margin: auto;
+}
